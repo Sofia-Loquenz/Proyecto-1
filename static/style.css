@@ -5,8 +5,8 @@ body{
     color: #333;
 }
 header{
-    background:#333;
-    color: white;
+    background:#d356a3;
+    color: rgba(12, 12, 12, 0.904);
     padding: 20px; 
     text-align: center; 
 }
@@ -14,7 +14,7 @@ nav{
     margin-top: 10px; 
 }
 nav a{
-    color: whitesmoke;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     margin: 0 10px;
     font-weight:bold;
